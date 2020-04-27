@@ -1,0 +1,12 @@
+num = [1, 2, 3]
+color = ['red', 'while', 'black']
+for (a,b) in zip(num, color):
+ print(a, b)
+ 
+#output:
+ 
+#
+1 red
+2 while
+3 black
+#
