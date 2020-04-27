@@ -1,2 +1,0 @@
-# college-assignment
-python programs
