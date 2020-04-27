@@ -6,7 +6,7 @@ for (a,b) in zip(num, color):
 #output:
  
 #
-1 my_name
-2 is_priyanshu
-3 soni
+#1 my_name
+#2 is_priyanshu
+#3 soni
 #
