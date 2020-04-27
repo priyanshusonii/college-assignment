@@ -5,5 +5,5 @@ print(['customer{0}'.format(i) for i in a])
 #output:
 
 #
-['customer100', 'customer123', 'customer345', 'customer567', 'customer789', 'customer890', 'customer98', 'customer876', 'customer543', 'customer678']
+#['customer100', 'customer123', 'customer345', 'customer567', 'customer789', 'customer890', 'customer98', 'customer876', 'customer543', 'customer678']
 #
